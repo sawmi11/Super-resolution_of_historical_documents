@@ -39,6 +39,6 @@ Image reconstruite:
 <img width="445" alt="reconstructed_image" src="https://github.com/AmineM89/Super-resolution_of_historical_documents/assets/93427646/44be778e-42d0-4c8e-8b7d-f1503053062e">
 
 ## Performance des modèles:
-Le modèle HAT: Hybrid Attention Transformer for Image Restoration semble le mieux adapté pour la super-résolution d'images manuscrites. Le modèle HAT est de loin le meilleur modèle avec un PSNR=32.2 est SSIM=0.9. Les résultats des expérientation se trouve dans la figure ci-dessous
+Le modèle HAT: Hybrid Attention Transformer for Image Restoration semble le mieux adapté pour la super-résolution d'images manuscrites. Le modèle HAT est de loin le meilleur modèle avec un PSNR=32.2 et un SSIM=0.9. Les résultats des expérientation se trouve dans la figure ci-dessous
 
 <img width="639" alt="results" src="https://github.com/AmineM89/Super-resolution_of_historical_documents/assets/93427646/2e3cf4e6-6f6d-47f1-afd3-f635cffdaec9">
